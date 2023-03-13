@@ -6,10 +6,12 @@
   margin-bottom: 10px;
 }
 .btn {
-  border: 1px, solid;
+  border: none;
+  padding: 12px 24px;
   border-radius: 4px;
-  color: black;
-  background-color: aquamarine;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(45, 48, 203);
   text-align: center;
   cursor: pointer;
 }
