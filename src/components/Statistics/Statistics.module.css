@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    gap: 15px;
+    gap: 16px;
     flex-direction: column;
   }
   .statistics__good,
@@ -10,7 +10,7 @@
   .statistics__neutral,
   .statistics__total,
   .statistics__PF {
-    font-size: 20px;
+    font-size: 24px;
     font-family: Roboto, sans-serif;
-    color: black;
+    color: rgb(31, 31, 31);
   }
